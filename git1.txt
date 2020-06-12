@@ -1,6 +1,6 @@
 Features of Git as Version Control Software (VCS)
 •	Decentralized - Pro
 •	Complex to learn - Con
-•	Unable to handle Binary files? - Pro
+•	Unable to handle Binary files? - Cons
 •	Internal Directory - Pro?
 •	User Interface - Con?
