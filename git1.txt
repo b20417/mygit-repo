@@ -5,3 +5,4 @@ Features of Git as Version Control Software (VCS)
 •	Internal Directory - Pro?
 •	User Interface - Con?
 •	Collaboration - Pro
+•	Disconnected working - Pro
