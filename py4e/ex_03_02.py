@@ -6,6 +6,7 @@ try:
     fr = float(rate)
 except:
     print("Please enter numeric input")
+    quit()
 if fh > 40:
     reg = fr*fh
     otp = (fh-40) * (fr*0.5)
