@@ -1,0 +1,12 @@
+﻿
+srvrmgr> list active tasks for comp SCCObjMgr_enu show SV_NAME, CC_ALIAS, TK_TASKID, TK_PID, TK_DISP_RUNSTATE, TK_START_TIME, TK_STATUS, TK_LABEL, TK_TASKTYPE
+list active tasks for comp SCCObjMgr_enu show SV_NAME, CC_ALIAS, TK_TASKID, TK_PID, TK_DISP_RUNSTATE, TK_START_TIME, TK_STATUS, TK_LABEL, TK_TASKTYPE
+
+SV_NAME  CC_ALIAS  TK_TASKID  TK_PID  TK_DISP_RUNSTATE  TK_START_TIME  TK_STATUS  TK_LABEL  TK_TASKTYPE  
+-------  --------  ---------  ------  ----------------  -------------  ---------  --------  -----------  
+sbldevapp11  SCCObjMgr_enu  44040222   18818   Running           2020-12-20 20:28:30  Waiting for command  vreddy    Normal       
+
+1 row returned.
+
+srvrmgr> spool off
+spool off
